@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/2125341735_3904224994_223132457.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/681894605_313772900_2292253766.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/681894605_789064381_2693429777.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/681894605_2157272380_2523000672.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/681894605_789064381_1124038703.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/3343579282_3905361196_1915995043.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/2617987618_4150876196_631461845.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/c/480p15/partial_movie_files/Compare/3449877258_256349269_2358810818.mp4'

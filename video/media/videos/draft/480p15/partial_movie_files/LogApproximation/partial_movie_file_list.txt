@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/draft/480p15/partial_movie_files/LogApproximation/1185818338_3503522428_223132457.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/draft/480p15/partial_movie_files/LogApproximation/624642324_319379542_2861179590.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/draft/480p15/partial_movie_files/LogApproximation/624642324_3117807809_3485192551.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/draft/480p15/partial_movie_files/LogApproximation/624642324_1645507640_498939405.mp4'
+file 'file:C:/Users/XMZ/Desktop/Saddle point/video/media/videos/draft/480p15/partial_movie_files/LogApproximation/624642324_2844360058_53784224.mp4'
